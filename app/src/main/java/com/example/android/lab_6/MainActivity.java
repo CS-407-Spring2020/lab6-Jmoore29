@@ -13,7 +13,7 @@ import java.security.acl.LastOwnerException;
 public class MainActivity extends AppCompatActivity {
 
     //SomeWhere in Australia
-    private final LatLng mDestinationLatLng = new LatLng(-33.8523341, 151.2106085);
+    private final LatLng mDestinationLatLng = new LatLng(43.0752817, -89.4063554);
     private GoogleMap mMap;
 
 
